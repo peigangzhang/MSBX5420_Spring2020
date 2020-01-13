@@ -65,8 +65,8 @@ By the end of this course students should be able to:
 
 **Laptop:**  please bring your laptop EVERY day (including the first).  Your laptop should have minimum 4 cores and 8GB of ram (recommend 16GB or higher).
 
-**Course website:**  everything for this course will be available on Canvas, https://canvas.colorado.edu,
-and on Github, TBD
+**Course website:**  everything for this course will be available on Canvas - https://canvas.colorado.edu,
+and on Github - https://github.com/peigangzhang/MSBX5420_Spring2020
 
 
 ## Schedule (subject to change)
