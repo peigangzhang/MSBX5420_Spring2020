@@ -30,7 +30,7 @@ Leeds School of Business, University of Colorado Boulder
 ## Schedule (subject to change)
 |Date          |Topic |
 |--------------|------|
-|Week 1<br>January 14    |Big data ecosystem, Github&Binder&Jupyter notebook|
+|Week 1<br>January 14    |[Section 1:Course Introduction.<br>Section 2: Github, Jupyter notebook, Binder, Python and Spark Helloworld](https://docs.google.com/presentation/d/1YgUwytydpm0fcVUumcvqyZqx2rn--19eWOfEYS0SXsM/edit?usp=sharing)|
 |Week 2<br>January 21    |Hadoop|
 |Week 3<br>January 28    |Spark|
 |Week 4<br>February 4    |Spark|
