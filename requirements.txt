@@ -1,2 +1,3 @@
-pyspark==2.3.0
+pyspark
+py4j
 matplotlib
