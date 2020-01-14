@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+
 def get_word_counts(data_path):
     """
     return sorted (word, count) list, sort by count
