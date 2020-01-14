@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 def get_word_counts(data_path):
     """
     return sorted (word, count) list, sort by count
@@ -20,4 +22,4 @@ input_data_path = './big_data_intro.txt'
 word_counts = get_word_counts(input_data_path)
 
 for word, count in word_counts[:100]:
-    print word, count
+    print(word, count)
