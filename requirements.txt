@@ -1,3 +1,0 @@
-pyspark
-py4j
-matplotlib
