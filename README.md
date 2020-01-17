@@ -10,7 +10,7 @@ Leeds School of Business, University of Colorado Boulder
 - Dr. Peigang(Peter) Zhang (peigang.zhang@colorado.edu)
 
 **Office hours:**  
-- Thursday 7pm - 9pm, KOBL 219
+- Thursday 7pm - 9pm, KOBL 219. You can join office hour by Zoom - https://cuboulder.zoom.us/j/2718416002
 
 
 ## Course Info
