@@ -31,7 +31,7 @@ Leeds School of Business, University of Colorado Boulder
 |Date          |Topic |
 |--------------|------|
 |Week 1<br>January 14    |[Section 1:Course Introduction.<br>Section 2: Github, Jupyter notebook, Binder, Python and Spark Helloworld](https://docs.google.com/presentation/d/1YgUwytydpm0fcVUumcvqyZqx2rn--19eWOfEYS0SXsM/edit?usp=sharing)|
-|Week 2<br>January 21    |Hadoop|
+|Week 2<br>January 21    |[Section 1:Distributed File System - HDFS.<br>Section 2: HDFS Command Line, Pydoop, Linux, SSH, Run Jupyter on Cluster Server](https://docs.google.com/presentation/d/1CnB19q-2kw5-4yMbd-EFhJeQ16TKxvkSxfq3HPlE1gM/edit?usp=sharing)|
 |Week 3<br>January 28    |Spark|
 |Week 4<br>February 4    |Spark|
 |Week 5<br>February 11   |Avro and Parquet|
