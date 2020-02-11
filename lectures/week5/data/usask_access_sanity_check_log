@@ -1,0 +1,16 @@
+skul2.usask.ca - - [15/Jun/1995:13:59:11 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+bell.usask.ca - - [15/Jun/1995:13:59:32 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+142.99.48.34 - - [15/Jun/1995:13:59:36 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+villi.usask.ca - - [15/Jun/1995:14:00:49 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+chemeng03 - - [15/Jun/1995:14:02:07 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+pukatea.its.vuw.ac.nz - - [15/Jun/1995:14:03:50 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+gp108008.usask.ca - - [15/Jun/1995:14:04:10 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+villi.usask.ca - - [15/Jun/1995:14:04:14 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+gp108008.usask.ca - - [15/Jun/1995:14:05:30 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+gp108008.usask.ca - - [15/Jun/1995:14:05:38 -0600] "GET /images/logo.gif HTTP/1.0" 304 0
+gp108008.usask.ca - - [15/Jun/1995:14:05:39 -0600] "GET /images/logo.gif HTTP/1.0" 500 0
+gp108008.usask.ca - - [15/Jun/1995:14:05:49 -0600] "GET /images/logo.gif HTTP/1.0" 502 0
+psych150.usask.ca - - [15/Jun/1995:14:06:32 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+psych150.usask.ca - - [15/Jun/1995:14:05:45 -0600] "GET /images/logo.gif HTTP/1.0" 502 0
+eng37.usask.ca - - [15/Jun/1995:14:07:03 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+artslab42.usask.ca - - [15/Jun/1995:14:07:03 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
