@@ -13,6 +13,8 @@ counts_rdd = text_rdd.flatMap(lambda line: line.split(" ")) \
     .map(lambda word: (word, 1)) \
     .reduceByKey(lambda a, b: a + b)
 
+counts_rdd.saveAsObjectFile('hdfs://msbx5420-m/user/peter/counts_rdd')
+
 counts_df = counts_rdd.toDF((['word', 'count']))
 counts_df.write.parquet('hdfs://msbx5420-m/user/peter/counts.parquet')
 
