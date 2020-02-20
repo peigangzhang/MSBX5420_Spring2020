@@ -32,10 +32,10 @@ Leeds School of Business, University of Colorado Boulder
 |--------------|------|
 |Week 1<br>January 14    |[Section 1:Course Introduction.<br>Section 2: Github, Jupyter notebook, Binder, Python and Spark Helloworld](https://docs.google.com/presentation/d/1YgUwytydpm0fcVUumcvqyZqx2rn--19eWOfEYS0SXsM/edit?usp=sharing)|
 |Week 2<br>January 21    |[Section 1:Distributed File System - HDFS.<br>Section 2: HDFS Command Line, Pydoop, Linux, SSH, Run Jupyter on Cluster Server](https://docs.google.com/presentation/d/1CnB19q-2kw5-4yMbd-EFhJeQ16TKxvkSxfq3HPlE1gM/edit?usp=sharing)|
-|Week 3<br>January 28    |[Section 1:Distributed Computing - Spark.<br>Section 2: Docker and PySpark Programming](https://docs.google.com/presentation/d/1cMuYXSR1_0F_PPBUbFFLuoVlYRY5NirXy0a1zwCAIDQ/edit?usp=sharing)|
-|Week 4<br>February 4    |[Section 1:Distributed Computing - Spark.<br>Section 2: Git, Pycharm and PySpark Programming](https://docs.google.com/presentation/d/1oCRjm_q7rfQL_FBmxUJWhKQd4nmzTyfUtDAyh-fyOoE/edit?usp=sharing)|
-|Week 5<br>February 11   |[Section 1:Spark SQL.<br>Section 2: DataFrame Programming, Setup Hdfs cluster in Google Cloud](https://docs.google.com/presentation/d/1MJ8pa66y1v9LyTlGVm_A1eKZVAKOjj63v2Uv0sfGhAA/edit?usp=sharing)|
-|Week 6<br>February 18   |[Section 1:Spark Batch Processing.<br>Section 2: DataFrame Programming, Setup Hdfs cluster in Google Cloud](https://docs.google.com/presentation/d/1wbbyZnojkhnyVtdtub75V2hZuslRbcqyLXHy6ILZE_4/edit?usp=sharing)|
+|Week 3<br>January 28    |[Section 1:Distributed Computing - Spark RDD 1.<br>Section 2: Docker and PySpark Programming](https://docs.google.com/presentation/d/1cMuYXSR1_0F_PPBUbFFLuoVlYRY5NirXy0a1zwCAIDQ/edit?usp=sharing)|
+|Week 4<br>February 4    |[Section 1:Distributed Computing - Spark RDD 2.<br>Section 2: Git, Pycharm and PySpark Programming](https://docs.google.com/presentation/d/1oCRjm_q7rfQL_FBmxUJWhKQd4nmzTyfUtDAyh-fyOoE/edit?usp=sharing)|
+|Week 5<br>February 11   |[Section 1:Spark SQL.<br>Section 2: DataFrame Programming](https://docs.google.com/presentation/d/1MJ8pa66y1v9LyTlGVm_A1eKZVAKOjj63v2Uv0sfGhAA/edit?usp=sharing)|
+|Week 6<br>February 18   |[Section 1:Spark Batch Processing.<br>Section 2: Create Cluster and Run Spark Job in Cluster](https://docs.google.com/presentation/d/1wbbyZnojkhnyVtdtub75V2hZuslRbcqyLXHy6ILZE_4/edit?usp=sharing)|
 |Week 7<br>February 25   |Hive|
 |Week 8<br>March 3       |Cassandra|
 |Week 9<br>March 10      |Cassandra|
