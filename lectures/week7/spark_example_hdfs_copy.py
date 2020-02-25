@@ -16,15 +16,6 @@ def copy_file(src_path, dst_path):
         pyhdfs.cp(src_path, dst_path)
 
 
-"""
-To run on Yarn:
-spark-submit --master yarn --deploy-mode cluster --num-executors 2 --executor-memory 1G --executor-cores 1 --driver-memory 1G ./spark_example_hdfs_copy.py hdfs://msbx5420-m/user/peter hdfs://msbx5420-m/test
-
-To run on local mode:
-spark-submit --master local[2] ./spark_example_hdfs_copy.py hdfs://msbx5420-m/user/peter hdfs://msbx5420-m/test
-"""
-
-
 def main():
     src_dir = str(sys.argv[1])
     dst_dir = str(sys.argv[2])
@@ -50,4 +41,11 @@ def main():
 
 
 if __name__ == "__main__":
+    """
+    To run on Yarn:
+    spark-submit --master yarn --deploy-mode cluster --num-executors 2 --executor-memory 1G --executor-cores 1 --driver-memory 1G ./spark_example_hdfs_copy.py hdfs://msbx5420-m/user/peter hdfs://msbx5420-m/test
+
+    To run on local mode:
+    spark-submit --master local[2] ./spark_example_hdfs_copy.py hdfs://msbx5420-m/user/peter hdfs://msbx5420-m/test
+    """
     main()
