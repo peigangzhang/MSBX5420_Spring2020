@@ -40,6 +40,8 @@ def main():
     """
     src_dir = str(sys.argv[1])
     dst_dir = str(sys.argv[2])
+    print(src_dir)
+    print(dst_dir)
 
     # create dst_dir if not exist
     if not pyhdfs.path.exists(dst_dir):
