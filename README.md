@@ -36,7 +36,7 @@ Leeds School of Business, University of Colorado Boulder
 |Week 4<br>February 4    |[Section 1:Distributed Computing - Spark RDD 2.<br>Section 2: Git, Pycharm and PySpark Programming](https://docs.google.com/presentation/d/1oCRjm_q7rfQL_FBmxUJWhKQd4nmzTyfUtDAyh-fyOoE/edit?usp=sharing)|
 |Week 5<br>February 11   |[Section 1:Spark SQL.<br>Section 2: DataFrame Programming](https://docs.google.com/presentation/d/1MJ8pa66y1v9LyTlGVm_A1eKZVAKOjj63v2Uv0sfGhAA/edit?usp=sharing)|
 |Week 6<br>February 18   |[Section 1:Spark Batch Processing.<br>Section 2: Create Cluster and Run Spark Job in Cluster](https://docs.google.com/presentation/d/1wbbyZnojkhnyVtdtub75V2hZuslRbcqyLXHy6ILZE_4/edit?usp=sharing)|
-|Week 7<br>February 25   |Hive|
+|Week 7<br>February 25   |[Spark Programming Patterns](https://docs.google.com/presentation/d/1OsF5JaNi_3vLDx-KLRs2_CME4ghAtzHS0NBZV3ygSt0/edit?usp=sharing)|
 |Week 8<br>March 3       |Cassandra|
 |Week 9<br>March 10      |Cassandra|
 |Week 10<br>March 17     |Cloud computing and AWS|
