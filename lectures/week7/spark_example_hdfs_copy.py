@@ -17,6 +17,7 @@ def copy_file(src_path, dst_path):
 
 
 def main():
+    # this is hdfs directory
     src_dir = str(sys.argv[1])
     dst_dir = str(sys.argv[2])
 
@@ -30,7 +31,7 @@ def main():
 
     # create children path rdd
     children_paths = pyhdfs.ls(src_dir)
-    children_paths_rdd = sc.parallelize(children_paths)
+    children_paths_rdd = sc.parallelize(children_paths, len(children_paths))
 
     # each executor task is to copy one children path
     children_paths_rdd.foreach(
