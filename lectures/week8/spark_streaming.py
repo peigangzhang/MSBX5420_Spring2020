@@ -3,4 +3,4 @@ from pyspark.streaming import StreamingContext
 
 # Create a local StreamingContext with two working thread and batch interval of 1 second
 sc = SparkContext("local[2]", "NetworkWordCount")
-ssc = StreamingContext(sc, 1)
+spark_streaming_context = StreamingContext(sc, 1)
