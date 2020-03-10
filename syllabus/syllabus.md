@@ -38,8 +38,8 @@ Leeds School of Business, University of Colorado Boulder
 |Week 6<br>February 18   |[Section 1:Spark Batch Processing.<br>Section 2: Create Cluster and Run Spark Job in Cluster](https://docs.google.com/presentation/d/1wbbyZnojkhnyVtdtub75V2hZuslRbcqyLXHy6ILZE_4/edit?usp=sharing)|
 |Week 7<br>February 25   |[Spark Programming Patterns](https://docs.google.com/presentation/d/1OsF5JaNi_3vLDx-KLRs2_CME4ghAtzHS0NBZV3ygSt0/edit?usp=sharing)|
 |Week 8<br>March 3       |[Section 1:Spark Streaming and Kafka.<br>Section 2: Code Review with GitHub](https://docs.google.com/presentation/d/1vcVUIWUeK2EZ2cpsJvr6xIKj-fyGduMsufi7YrT8v_0/edit?usp=sharing)|
-|Week 9<br>March 10      |Cassandra|
-|Week 10<br>March 17     |Cloud computing and AWS|
+|Week 9<br>March 10      |[Section 1:NoSQL and Apache Cassandra.<br>Section 2: Class Presentation](https://docs.google.com/presentation/d/1GIE2qZes-Jahg3fqBClOtWMgukwfN5VCPa-ndo2dsqQ/edit?usp=sharing)|
+|Week 10<br>March 17     |Class Presentation|
 |March 24                |No Class, Spring break|
 |Week 11<br>March 31       |Cloud computing and AWS|
 |Week 12<br>April 7       |Cloud computing and AWS|
