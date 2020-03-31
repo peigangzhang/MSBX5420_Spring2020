@@ -41,7 +41,7 @@ Leeds School of Business, University of Colorado Boulder
 |Week 9<br>March 10      |[Section 1:NoSQL and Apache Cassandra.<br>Section 2: Class Presentation](https://docs.google.com/presentation/d/1GIE2qZes-Jahg3fqBClOtWMgukwfN5VCPa-ndo2dsqQ/edit?usp=sharing)|
 |Week 10<br>March 17     |[Class Presentation](https://docs.google.com/presentation/d/19pH_FEGfNgqLW29vXFD4w3K5knfBHy6wBuplPRwYiX8/edit?usp=sharing)|
 |March 24                |No Class, Spring break|
-|Week 11<br>March 31       |Cloud computing and AWS|
+|Week 11<br>March 31     |[Section 1:Cloud Computing and AWS.<br>Section 2: Running Spark job in EMR Cluster](https://docs.google.com/presentation/d/1tVqAbGOuis47ol7SyD7wtG2oIBmWTnQSf9oxHszwiQo/edit?usp=sharing)|
 |Week 12<br>April 7       |Cloud computing and AWS|
 |Week 13<br>April 14      |ElasticSearch and Kibana|
 |Week 14<br>April 21      |Big data machine learning|
