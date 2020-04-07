@@ -42,7 +42,7 @@ Leeds School of Business, University of Colorado Boulder
 |Week 10<br>March 17     |[Class Presentation](https://docs.google.com/presentation/d/19pH_FEGfNgqLW29vXFD4w3K5knfBHy6wBuplPRwYiX8/edit?usp=sharing)|
 |March 24                |No Class, Spring break|
 |Week 11<br>March 31     |[Section 1:Cloud Computing and AWS.<br>Section 2: Running Spark job in EMR Cluster](https://docs.google.com/presentation/d/1tVqAbGOuis47ol7SyD7wtG2oIBmWTnQSf9oxHszwiQo/edit?usp=sharing)|
-|Week 12<br>April 7       |Cloud computing and AWS|
+|Week 12<br>April 7       |[Team Project and AWS.<br>Section](https://docs.google.com/presentation/d/1aNrLuCjpKQ0ZI8WBJ82lht1eNfnjzmeVaMB-ngDpAJ0/edit?usp=sharing)|
 |Week 13<br>April 14      |ElasticSearch and Kibana|
 |Week 14<br>April 21      |Big data machine learning|
 |Week 15<br>April 28      |Final Project presentation|
