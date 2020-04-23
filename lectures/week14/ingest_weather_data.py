@@ -160,7 +160,7 @@ ftp_server_url = 'ftp.ncdc.noaa.gov'
 folder_name = '/pub/data/gsod/2020/'
 result_path = 's3://msbx5420-2020/peterzhang/weather/weather.parquet'
 
-filenames = get_filenames(ftp_server_url, folder_name)
+filenames = get_filenames(ftp_server_url, folder_name)[0:5]
 
 filenames_rdd = sc.parallelize(filenames)
 

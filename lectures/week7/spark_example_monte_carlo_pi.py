@@ -7,7 +7,7 @@ from operator import add
 from pyspark.sql import SparkSession
 
 
-def simulation():
+def simulation(_):
     """
     get simulation result
     :return:
